@@ -3,7 +3,9 @@
 
 ## 🔗 Links
 
-[font-awesome](https://cdnjs.com/libraries/font-awesome) 
+[font-awesome cdn](https://cdnjs.com/libraries/font-awesome) 
+
+[font-awesome](https://fontawesome.com/)
 
 [Currecy Exchange API](https://github.com/fawazahmed0/exchange-api)
 
